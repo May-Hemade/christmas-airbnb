@@ -1,0 +1,26 @@
+.navBar {
+  background-color: black !important;
+  color: white !important;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  transform: scale(1.05);
+  transition: transform 100ms ease-in;
+}
+.inner-nav {
+  color: white !important;
+}
+.user-menu {
+  background-color: white;
+  border-radius: 6ch;
+  color: gray !important;
+}
+.side-nav {
+  color: white !important;
+}
+.dropdown-toggle:after {
+  display: none !important;
+}

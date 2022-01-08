@@ -1,0 +1,37 @@
+.bg-purple {
+  background-color: #bc1abe;
+}
+.bg-orange {
+  background-color: #d93b30;
+}
+.bg-pomegranate {
+  background-color: #de3151;
+}
+.bg-red {
+  background-color: #cc2d4a;
+}
+.card-inspiration {
+  color: white;
+  text-align: left;
+  border-radius: 1ch;
+  border: none;
+  margin-top: 1ch;
+}
+.card-image {
+  border-top-left-radius: 1ch;
+  border-top-right-radius: 1ch;
+}
+
+.card-text {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+
+  padding-bottom: 6ch;
+}
+
+.card-tile {
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 30px;
+}

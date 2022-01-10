@@ -1,0 +1,20 @@
+.footer-link {
+  font-weight: 200 !important;
+  text-decoration: none !important;
+  color: rgb(34, 34, 34) !important;
+  font-size: 14px !important;
+  line-height: 18px !important;
+  outline: none !important;
+  margin-top: 15px;
+}
+
+.footer-title {
+  font-weight: bold;
+  color: #222222;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.footer-col {
+  text-align: left;
+}

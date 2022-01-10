@@ -5,7 +5,7 @@ import SearchBar from "./components/SearchBar"
 import InspirationList from "./components/InspirationList"
 import { Container } from "react-bootstrap"
 import DiscoverList from "./components/DiscoverList"
-
+import AirbnbFooter from "./components/AirbnbFooter"
 function App() {
   return (
     <div className="App">
@@ -20,6 +20,7 @@ function App() {
         <h2 className="section-title">Discover Airbnb Experiences</h2>
         <DiscoverList></DiscoverList>
       </Container>
+      <AirbnbFooter></AirbnbFooter>
     </div>
   )
 }

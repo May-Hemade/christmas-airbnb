@@ -1,0 +1,17 @@
+.footer-info-link {
+  color: #222222 !important;
+  font-size: 14px;
+}
+
+.copyright {
+  color: #222222 !important;
+  font-size: 14px;
+}
+
+.footer-money {
+  color: #222222 !important;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: underline;
+  padding-left: 1ch;
+}

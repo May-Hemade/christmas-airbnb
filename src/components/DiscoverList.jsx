@@ -20,7 +20,7 @@ export default class DiscoverList extends Component {
   ]
   render() {
     return (
-      <Container>
+      <Container className="pb-5">
         <Row>
           {this.items.map((discover) => (
             <Col>

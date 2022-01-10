@@ -15,6 +15,9 @@
   text-align: left;
   font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
     Helvetica Neue, sans-serif;
+  padding-top: 2ch;
+  padding-bottom: 2ch;
+  margin-left: 0.5ch;
 }
 .header {
   background-color: black;
